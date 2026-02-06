@@ -1,0 +1,8 @@
+numpy
+tqdm
+sentence-transformers
+torch
+transformers
+pydantic
+python-dotenv
+requests
