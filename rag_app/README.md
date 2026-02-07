@@ -23,7 +23,7 @@ Step 1 : Clone Endee and Build Server
 - make
 
 Step 2: Run Endee
-- ./run.sh binary_file=build/ndd-neon-darwin
+- ./run.sh binary_file=build/ndd-neon-darwin //
 Endee runs at : http://0.0.0.0:8080
 
 Step 3: Set up Python Environment
